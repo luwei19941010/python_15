@@ -116,7 +116,7 @@ os.rename('new_forder','cc')
 - sys.path,默认python 导入模块时，会按照sys.path中的路径去挨个查找
 
 ```
-sys.path.append(r'D:\\')
+sys.path.append(r'D:\\') 
 import ACI
 ```
 
@@ -145,6 +145,22 @@ v2='["asd", 12, 34, 5, {"k1": 1}, true, "asdasd", ["asd", 12, 3]]'
 v3=json.loads(v2)
 print(v3)
 ```
+
+![image-20200104150821243](C:\Users\davidlu\AppData\Roaming\Typora\typora-user-images\image-20200104150821243.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
